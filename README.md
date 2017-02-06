@@ -30,6 +30,13 @@ http://pdacontroles.com/introduccion-plataforma-iot-cayenne-mydevices-esp8266/
 ![Portada](https://github.com/JhonControl/ESP8266_Cayenne_mydevices/blob/master/extras/NodeMCU_01.jpg)
 
 
+#More info - Mas Informacion:
+Ingles
+http://pdacontrolen.com
+Español
+http://pdacontroles.com
+
+
 
 
 
